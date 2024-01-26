@@ -1,0 +1,24 @@
+ <!--Part 3-->
+    <header>
+        <img src="Home/img/home-3.jpg" alt="poster">
+        <div class="text-over-image">
+            <h1>Welcome to Prime Video</h1>
+            <h4><b>"Watch anywhere. Cancel anytime."</b></h4>
+            <p>Watch the latest movies, TV shows, and award-winning Amazon Originals</p>
+            <button type="submit" >Start your 30-day free trial</button>
+            <p>With select credit, debit card, or UPI ID</p>            
+        </div> 
+    </header>
+
+    <!--Part 4-->
+    <header>
+        <img src="Home/img/home-4.jpg" alt="poster">
+        <div class="text-over-image">
+            <h1>Welcome to Prime Video</h1>
+            <h4><b>"Watch anywhere. Cancel anytime."</b></h4>
+            <p>Watch the latest movies, TV shows, and award-winning Amazon Originals</p>
+            <button type="submit" >Start your 30-day free trial</button>
+            <p>With select credit, debit card, or UPI ID</p>            
+        </div> 
+    </header>
+    
